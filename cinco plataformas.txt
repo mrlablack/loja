@@ -1,0 +1,37 @@
+1-OpenCart
+O OpenCart é conhecido por sua interface de administração intuitiva e fácil de usar. Ele permite que os usuários gerenciem facilmente produtos, pedidos, clientes, métodos de pagamento, envio e outros aspectos de uma loja online sem a necessidade de habilidades técnicas avançadas.Ele também possui ampla Gama de Recursos,  uma comunidade activa e um SEO amigável que ajuda as lojas online a serem mais facilmente encontradas nos resultados de pesquisa do Google e de outros motores de busca.
+
+link para o git:https://github.com/opencart/opencart
+Link para a pagina oficial:https://www.opencart.com/
+
+
+2- UltraCart 
+O UltraCart é uma solução de comércio eletrônico hospedada, o que significa que você não precisamos  preocupar com a hospedagem do  site. Isso simplifica o processo de configuração e elimina a necessidade de lidar com questões técnicas de servidor.
+Projetado para ser fácil de usar, mesmo para iniciantes. Ele oferece uma interface intuitiva de administração que permite gerenciar produtos, processar pedidos, configurar métodos de pagamento e envio, e muito mais, tudo de forma simplificada e também oferece uma variedade de modelos de design prontos para uso.
+
+Link pra pagina oficial:https://www.ultracart.com/
+Link para o git:https://github.com/UltraCart
+
+
+
+3-Prestashop
+Outra plataforma de comércio eletrônico de código aberto que oferece uma variedade de recursos e temas para criar uma loja online personalizada. É conhecida por sua interface amigável e flexibilidade. O PrestaShop possui uma variedade de recursos avançados para ajudar a criar uma loja online completa. Isso inclui suporte a múltiplas moedas e idiomas, opções de pagamento flexíveis, gerenciamento de estoque avançado, ferramentas de SEO, relatórios detalhados e muito mais.
+
+Link para página oficial: https://prestashop.com/
+Link para o git:https://github.com/PrestaShop/fontmanager
+
+
+
+4-WooCommerce: 
+Uma extensão de comércio eletrônico para WordPress, o WooCommerce é uma opção popular devido à sua integração fácil com sites existentes baseados em WordPress. É altamente personalizável e oferece uma variedade de extensões para estender sua funcionalidade. O WooCommerce possui uma vasta biblioteca de extensões disponíveis para adicionar funcionalidades adicionais à sua loja. Isso inclui extensões gratuitas e premium para uma ampla variedade de finalidades, como processamento de pagamento, gestão de estoque, marketing, análise e muito mais.
+
+Link para pagina oficial: https://woo.com/pt-br/
+Link para o git: https://github.com/woocommerce/woocommerce
+
+
+
+5-Magento:
+Magento é uma das plataformas de comércio eletrônico mais populares, e é construída usando PHP. Oferece uma grande flexibilidade e capacidade de personalização para lojas online ,capaz de lidar com lojas online de todos os tamanhos, desde pequenas lojas até grandes empresas com um grande volume de transações. O Magento também é construído com práticas recomendadas de SEO (Search Engine Optimization) em mente, o que ajuda as lojas online a serem mais facilmente encontradas nos resultados de pesquisa do Google e de outros motores de busca.
+
+Link para página oficial: https://business.adobe.com/products/magento/magento-commerce.html 
+Link para o git:https://github.com/magento
